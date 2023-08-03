@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_complete_guide=self.webpackChunkreact_complete_guide||[]).push([[386],{386:function(e,t,u){u.r(t);var c=u(787),n=u(184);t.default=function(){return(0,n.jsx)(c.Z,{method:"post"})}}}]);
+//# sourceMappingURL=386.f2615cbf.chunk.js.map

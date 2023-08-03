@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/386.f2615cbf.chunk.js","mappings":"6JAMA,UAJA,WACE,OAAO,SAAC,IAAS,CAACA,OAAO,QAC3B,C","sources":["pages/NewEvent.js"],"sourcesContent":["import EventForm from '../components/EventForm';\n\nfunction NewEventPage() {\n  return <EventForm method=\"post\" />;\n}\n\nexport default NewEventPage;\n\n"],"names":["method"],"sourceRoot":""}

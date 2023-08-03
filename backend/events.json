@@ -1,0 +1,35 @@
+{
+  "events": [
+    {
+      "title": "Dangal MacDonald",
+      "image": "https://images.thequint.com/thequint/2018-11/5ef157a1-8c9d-4f35-ab56-8513eba37ce0/Kabaddi_hero.jpg?rect=0%2C0%2C4604%2C2590&auto=format%2Ccompress&fmt=webp",
+      "date": "2023-02-02",
+      "description": "Le Panga",
+      "id": "bac45340-6b44-4e2e-9955-992a23858ccc"
+    },
+    {
+      "title": "The Legend Sidhu Moosewala Long Live",
+      "image": "https://d3m2ck9isazgad.cloudfront.net/s600/eventFlyer/1551802836016-5f85dde49eff237a90c9acf2.png",
+      "date": "2023-02-13",
+      "description": "legends never die",
+      "id": "370b40b8-3ab2-4115-b11a-2b4cbf4d6f7e"
+    }
+  ],
+  "users": [
+    {
+      "email": "akash@mail.com",
+      "password": "$2a$12$E43JL88bYvOMpnSMy1hNoex3BrRspqYx6qiQokjfI9/C7ab6rxUH6",
+      "id": "3b93951d-40ab-4b9a-9869-f0344042bd01"
+    },
+    {
+      "email": "vikash@gmail.com",
+      "password": "$2a$12$JM4LCizIPXrvT1Xi3BAau.PJFJIW.QNKO/ZP8HF4Dcx0bhHftOnWe",
+      "id": "8d525e44-9eed-4253-a4f3-3c612ebe177f"
+    },
+    {
+      "email": "akash@gmail.com",
+      "password": "$2a$12$dH.5F6POJ.TYJMm6C3QllO.XEV8mvODLua39WUFruwZuQjpjY.g72",
+      "id": "4ce24c7c-1d13-4cab-8792-4c250c311cbf"
+    }
+  ]
+}
